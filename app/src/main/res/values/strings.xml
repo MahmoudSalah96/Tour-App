@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">TourApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="LuxorTempleDes">Luxor Temple is a large Ancient
+        Egyptian temple complex located on the east bank of the Nile
+        River in the city today known as Luxor and was constructed
+        approximately 1400 BCE.</string>
+    <string name="LuxorBuilder">Amenhotep III, Amenhotep II</string>
+
+    <string name="KarnakDes">The Karnak Temple Complex,
+        commonly known as Karnak,
+        comprises a vast mix of decayed temples,
+        chapels, pylons,
+        and other buildings in Egypt.</string>
+    <string name="KarnakBuilder">Senusret I</string>
+
+    <string name="ValleyOfTheKingsDes">The Valley of the Kings,
+        also known as the Valley of the Gates of the Kings,
+        is a valley in Egypt where,
+        for a period of nearly 500 years from
+        the 16th to 11th century BC,
+        rock cut tombs were excavated .</string>
+    <string name="ValleyBuilder">Pharaohs </string>
+
+    <string name="ColossiOfMemnonDes">The Colossi of Memnon are two massive
+        stone statues of the Pharaoh
+        Amenhotep III, who reigned in
+        Egypt during the Dynasty XVIII. </string>
+    <string name="ColossiBuilder">Amenhotep, son of Hapu</string>
+
+
+    <string name="ElephantineDes">Elephantine is an island on the Nile,
+        forming part of the city of
+        Aswan in Upper Egypt.
+        There are archaeological sites
+        on the island.</string>
+
+
+    <string name="NubianMuseumDes">he Nubian Museum is an archaeological
+        museum located in Aswan,
+        Upper Egypt.
+        It was built to a design by
+        architect Mahmoud El-Hakim for an
+        estimated construction cost of LE 75 million.</string>
+    <string name="MuseumBuilder">Mahmoud El-Hakim</string>
+
+    
+    <string name="UnfinishedObeliskDes">The unfinished obelisk is
+        the largest known ancient
+        obelisk and is located in
+        the northern region of
+        the stone quarries of ancient
+        Egypt in Aswan.</string>
+    <string name="ObeliskBuilder"> Hatshepsut </string>
+
+
+    <string name="HangingChurchDes">Saint Virgin Mary`s Coptic
+        Orthodox Church also known as
+        The Hanging Church is one of
+        the oldest churches in Egypt
+        and the history of a church on
+        this site dates to the third century.
+        It belongs to the Coptic Orthodox Church of Alexandria.</string>
+
+    <string name="GizapyramidDes">The Giza pyramid complex is
+        an archaeological site on
+        the Giza Plateau,
+        on the outskirts of Cairo,
+        Egypt. </string>
+    <string name="pyramidsBuilder">Pharaoh Khufu</string>
+
+    <string name="GreatSphinxDes">The Great Sphinx of Giza,
+        commonly referred to as
+        the Sphinx of Giza or just the Sphinx,
+        is a limestone statue of
+        a reclining sphinx,
+        a mythical creature with
+        the body of a lion and
+        the head of a human.</string>
+    <string name="SphinxBuilder"> Pharaoh Khafre</string>
+
+    <string name="SaladinCitadelDes">The Saladin Citadel of Cairo is
+        a medieval Islamic fortification
+        in Cairo, Egypt. The location,
+        on Mokattam hill near
+        the center of Cairo,
+        was once famous for its fresh
+        breeze and grand views of the city.</string>
+    <string name="CitadelBuilder">Salah El-Din</string>
+    
+    
+    <string name="CitadelOfQaitbayDes">The Citadel of Qaitbay is
+        a 15th-century defensive fortress 
+        located on the Mediterranean sea coast,
+        in Alexandria, Egypt.
+        It was established in 1477 AD 
+        by Sultan Al-Ashraf Sayf al-Din Qait Bay. </string>
+    <string name="QaitbayBuilder">Al-Ashraf Sayf al-Din</string>
+    
+    <string name="PompeysPillarDes">Pompey`s Pillar is a Roman
+        triumphal column in Alexandria,
+        the largest of its type constructed
+        outside the imperial capitals of Rome
+        and Constantinople,
+        located at the Serapeum of Alexandria.</string>
+    <string name="PillarBuilder"> Pompey the Great</string>
+
+    <string name="RoyalJewelryMuseumDes">The Royal Jewelry Museum
+        is an art and history museum
+        in the Zizenia neighborhood of Alexandria.
+        It is located in the former palace
+        of Princess Fatma Al-Zahra.</string>
+    <string name="JewelryMuseumBuilder"> Fatma Al-Zahra</string>
+
+    <string name="StanleyDes">Stanley is a neighborhood near
+        the city centre of Alexandria.
+        The area is most famous for 
+        the iconic Stanley Bridge on the Corniche,
+        as well as its private-access beach.
+        The bridge has a total length
+        of 400 meters with 6 spans. </string>
+
+</resources>
